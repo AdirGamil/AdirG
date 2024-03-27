@@ -1,8 +1,11 @@
 ## Adir Gamil 🚀
 
 👨‍💻 FullStack & Frontend Developer
+
 🌐 Passionate about crafting elegant web experiences
+
 🔥 JavaScript enthusiast
+
 🎨 UI/UX aficionado
 
 ### About Me
